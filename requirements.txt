@@ -1,3 +1,9 @@
 rasterio
 matplotlib
 pyodbc
+sqlalchemy
+pandas 
+fiona
+shapely
+msaccessdb
+pypyodbc
