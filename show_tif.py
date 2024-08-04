@@ -3,7 +3,7 @@ from rasterio.plot import show
 import matplotlib.pyplot as plt
 import numpy as np
 # 打开 TIFF 文件
-tif_file = "HWSD_RASTER/hwsd.tif"
+tif_file = "TIF/AWC_CLASS.tif"
 
 with rasterio.open(tif_file) as src:
     # 显示栅格数据
