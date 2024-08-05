@@ -10,3 +10,6 @@ pypyodbc
 xarray
 netcdf4 
 h5netcdf
+scipy
+openpyxl
+tqdm
